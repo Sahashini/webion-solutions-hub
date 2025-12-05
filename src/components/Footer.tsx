@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               {/* Use a valid Tailwind size like h-12 */}
-              <img src={logo} alt="Webion Solutions" className="h-12 w-12 rounded-full" />
+              <img src={logo} alt="Webion Solutions" className="h-11 w-11 rounded-full" />
               <span className="font-heading text-xl font-bold">WEBION SOLUTIONS</span>
             </div>
             <p className="text-muted-foreground text-sm">
